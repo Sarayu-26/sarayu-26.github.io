@@ -1,0 +1,12 @@
+---
+title: "My First Post"
+description: "A short description"
+author:
+  - name: "Sarayu Ramnath"
+    url: "https://sarayu-26.github.io"
+    affiliation: "Bren School"
+date: 2026-01-01
+categories: ["Marine"]
+image: "image.jpg"
+format: html
+---

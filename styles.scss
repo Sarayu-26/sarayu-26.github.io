@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$primary: #8B1A1A;
+$body-bg: #ffffff;
+$body-color: #333333;
+$font-family-sans-serif: "Source Sans Pro", sans-serif;
+
+/*-- scss:rules --*/
+.navbar {
+  background-color: #8B1A1A !important;
+  border-bottom: 2px solid #6b1414;
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
+body {
+  background-color: rgba(139, 26, 26, 0.05);
+}

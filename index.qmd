@@ -1,11 +1,17 @@
 ---
-title: "sarayu-26.github.io"
+title: "Sarayu Ramnath"
+image: sarayu_image.jpg
+about:
+  template: jolla
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sarayu-ramnath
+      target: _blank
+    - text: GitHub
+      href: https://github.com/sarayu-26
+      target: _blank
+    - text: Email
+      href: mailto:sramnath@bren.ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Marine enthusiast. Badass MC 
