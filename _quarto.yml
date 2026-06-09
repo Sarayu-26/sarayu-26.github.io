@@ -4,6 +4,7 @@ project:
 website:
   title: "Sarayu Ramnath"
   navbar:
+    logo: kolam_logo.png
     left:
       - href: index.qmd
         text: Home
@@ -11,6 +12,8 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
+      - href: cv.pdf
+        text: CV
         
 format:
   html:
