@@ -4,6 +4,7 @@ project:
   resources:
     - cv.pdf
     - kolam_logo.png
+    - styles.scss
 website:
   title: "Sarayu Ramnath"
   navbar:
