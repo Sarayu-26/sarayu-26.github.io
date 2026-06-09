@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv.pdf
+    - kolam_logo.png
 website:
   title: "Sarayu Ramnath"
   navbar:
@@ -11,8 +14,8 @@ website:
       - href: about.qmd
         text: About
       - href: blog.qmd
-        text: Blog
-      - href: cv.pdf
+        text: View my work
+      - href: Ramnath_CV.pdf
         text: CV
         
 format:
