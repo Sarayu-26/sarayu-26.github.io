@@ -11,7 +11,7 @@ I'm a Master of Environmental Science and Management graduate from the Bren Scho
 ## CV
 
 ```{=html}
-<iframe src="../Ramnath_CV.pdf" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="Ramnath_CV.pdf" width="100%" height="800px" style="border:none;"></iframe>
 ```
 
 :::
