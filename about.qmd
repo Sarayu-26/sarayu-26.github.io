@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+::: {.panel-tabset}
 
-```{r}
-1 + 1
+## Bio
+
+I'm a Master of Environmental Science and Management graduate from the Bren School at UC Santa Barbara, specializing in coastal resource management with a focus in environmental communication. My work spans marine conservation and applied research along the California Current, with a focus on science communication and data visualization. I'm interested in using visual storytelling to make environmental data accessible.
+
+## CV
+
+```{=html}
+<iframe src="../Ramnath_CV.pdf" width="100%" height="800px" style="border:none;"></iframe>
 ```
+
+:::

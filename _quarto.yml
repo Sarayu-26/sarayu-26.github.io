@@ -5,6 +5,8 @@ project:
     - cv.pdf
     - kolam_logo.png
     - styles.scss
+execute:
+  freeze: auto
 website:
   title: "Sarayu Ramnath"
   navbar:
@@ -16,9 +18,6 @@ website:
         text: About
       - href: blog.qmd
         text: View my work
-      - href: Ramnath_CV.pdf
-        text: CV
-        
 format:
   html:
     theme:

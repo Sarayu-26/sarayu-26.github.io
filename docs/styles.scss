@@ -11,11 +11,11 @@ $coffee-bean:    #26150F;
 $dark-red:       #8B1A1A;
 
 // Theme assignments
-$primary:                $espresso;
-$body-bg:                #F5F0E8;
-$body-color:             $coffee-bean;
-$link-color:             $charcoal-blue;
-$font-family-sans-serif: "Source Sans Pro", sans-serif;
+$primary:                   $dark-red;
+$body-bg:                   #F5F0E8;  // warm parchment tan
+$body-color:                $coffee-bean;
+$link-color:                $espresso;
+$font-family-sans-serif:    "Source Sans Pro", sans-serif;
 
 /*-- scss:rules --*/
 
@@ -25,36 +25,41 @@ body {
 }
 
 .navbar {
-  background-color: $espresso !important;
-  border-bottom: 3px solid $deep-walnut;
+  background-color: $charcoal-blue !important;
+  border-bottom: 3px solid $dark-red;
+}
+
+.navbar-logo {
+  max-height: 40px;
 }
 
 .navbar-brand, .nav-link {
-  color: $dry-sage !important;
+  color: $sky-reflection !important;
   &:hover {
-    color: #ffffff !important;
+    color: $dry-sage !important;
   }
 }
 
 h1, h2, h3 {
-  color: $charcoal-blue;
-  border-bottom: 1px solid $sky-reflection;
+  color: $espresso;
+  border-bottom: 1px solid $dark-red;
   padding-bottom: 0.3em;
 }
 
 a {
-  color: $charcoal-blue;
+  color: $espresso;
   &:hover {
-    color: $sky-reflection;
+    color: $charcoal-blue;
   }
 }
 
 .quarto-title {
-  color: $charcoal-blue;
+  color: $dark-red;
 }
 
+// Subtle card/listing borders
 .quarto-post, .listing-item {
-  border-left: 3px solid $sky-reflection;
+  border-left: 3px solid $dry-sage;
   padding-left: 1em;
 }
 
@@ -62,3 +67,4 @@ blockquote {
   border-left: 4px solid $taupe;
   color: $deep-walnut;
 }
+
