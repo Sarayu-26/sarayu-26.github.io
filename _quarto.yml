@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - cv.pdf
+    - Ramnath_CV.pdf
     - kolam_logo.png
     - styles.scss
 execute:
