@@ -6,7 +6,7 @@ author:
     url: "https://sarayu-26.github.io"
     affiliation: "Bren School of Environmental Science & Management, UCSB"
 date: 2025-12-09
-categories: ["Coastal Policy", "Writing Samples", "Climate Adaptation"]
+categories: ["Coastal Policy", "Writing Sample", "Climate Adaptation", "Coastal Resilience"]
 image: "bolinas.jpg"
 format:
   html:
@@ -15,7 +15,7 @@ format:
 
 ```{=html}
 <div class="disclaimer">
-  <p>Note:These documents were produced as coursework assignments for a coastal policy course at the Bren School of Environmental Science and Management, UC Santa Barbara, Fall 2025. They are shared here as writing samples and are not intended for official use or distribution, although the public comment letter was submitted to CCC ahead of a hearing.</p>
+  <p>Note: These documents were produced as coursework assignments for a coastal policy course at the Bren School of Environmental Science and Management, UC Santa Barbara, Fall 2025. They are shared here as writing samples and are not intended for official use or distribution, although the public comment letter was submitted to CCC ahead of a hearing.</p>
 </div>
 ```
 
