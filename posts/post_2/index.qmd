@@ -4,7 +4,7 @@ description: "A reproducible workflow for communicating UCSB NRS impact through 
 author: "Sarayu Ramnath"
 date: "2026-06-05"
 categories: ["Data Visualization", "NRS", "R"]
-image: "preview.png"
+image: "preview.jpg"
 format: html
 execute:
   freeze: true
