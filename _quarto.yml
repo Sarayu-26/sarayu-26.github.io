@@ -5,6 +5,9 @@ project:
     - Ramnath_CV.pdf
     - kolam_logo.png
     - styles.scss
+    - posts/post_2/ramnath_nrs_infographic.pdf
+    - posts/post_4/ramnath_policy_memo.pdf
+    - posts/post_4/ramnath_public_comment_letter.pdf
 execute:
   freeze: auto
 website:
