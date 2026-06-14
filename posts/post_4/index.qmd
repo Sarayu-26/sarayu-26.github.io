@@ -35,7 +35,7 @@ These two documents were written for a coastal policy course at Bren. The policy
 ```
 
 ```{=html}
-<iframe src="Policy_Memo_.pdf" width="100%" height="900px" style="border:none;"></iframe>
+<iframe src="ramnath_policy_memo.pdf" width="100%" height="900px" style="border:none;"></iframe>
 ```
 
 ## Public Comment Letter
@@ -49,7 +49,7 @@ These two documents were written for a coastal policy course at Bren. The policy
 ```
 
 ```{=html}
-<iframe src="Public_comment_letter.pdf" width="100%" height="900px" style="border:none;"></iframe>
+<iframe src="ramnath_public_comment_letter.pdf" width="100%" height="900px" style="border:none;"></iframe>
 ```
 
 :::
